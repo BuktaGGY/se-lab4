@@ -1,0 +1,4 @@
+# --- TEST 9: SINGLE - előzőleg primary lőtt, secondary üres, ezért primary újra lő ---
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

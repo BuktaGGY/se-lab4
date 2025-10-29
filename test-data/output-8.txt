@@ -1,0 +1,4 @@
+# --- TEST 9 ---
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (első hívás, primary lő)
+FAIL  # <- TORPEDO (második hívás, secondary üres, primary újra lő)
