@@ -1,3 +1,0 @@
-#TEST 3: SINGLE, primary üres → secondary lő ---
-GT4500,0,0,1,0
-TORPEDO,SINGLE

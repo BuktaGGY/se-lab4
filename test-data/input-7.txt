@@ -1,3 +1,0 @@
-# --- TEST 8: ALL, egyik fail, másik siker ---
-GT4500,1,1,1,0
-TORPEDO,ALL

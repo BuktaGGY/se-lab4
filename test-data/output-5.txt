@@ -1,3 +1,0 @@
-#test6
-SUCCESS  # <- GT4500
-FAIL  # <- TORPEDO

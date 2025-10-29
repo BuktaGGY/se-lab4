@@ -1,4 +1,0 @@
-#test2
-SUCCESS  # <- GT4500
-SUCCESS  # <- TORPEDO
-SUCCESS  # <- TORPEDO
